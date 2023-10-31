@@ -21,6 +21,7 @@
     "sinon": "^13.0.1",
     "supertest": "^6.1.6",
     "swagger-ui-express": "^4.2.0",
-    "yamljs": "^0.3.0"
+    "yamljs": "^0.3.0",
+    "lodash": "^4.17.21"
   }
 }
